@@ -9,4 +9,4 @@ I'm a **Full Stack Developer** working from [Dakar, Senegal](https://www.google.
 - 👀 Have an eye on learning [Rust](https://www.rust-lang.org/), [SwiftUI](https://developer.apple.com/xcode/swiftui/), [WASM](https://webassembly.org/) and [Go](https://golang.org/).
 - 🧷 I'm mostly active on [Twitter](https://twitter.com/Madiodio_Gaye).
 - I love sports 🏀⇢ ⚽️⇢ 🏐⇢ 🏃🏾‍♂️ and video games 🎮.
-- 🌍 Anywhere in Africa is home for me.
+- 🌍 Anywhere in Africa is home to me.
