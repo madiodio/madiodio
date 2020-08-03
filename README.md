@@ -2,7 +2,7 @@
 
 I'm a **Full Stack Developer** working from [Dakar, Senegal](https://www.google.com/maps/place/Dakar/@14.7110139,-17.5358655,12z) 🇸🇳.
 
-- 🗂 I currently work as a Tech Lead at a last-mile logistic startup.
+- 🗂 I currently work as a Lead Frontend Engineer.
 - 😀 I'm interested in **frontend engineering**, **design systems**, **JAMSTACK** & **serverless programming**, **javascript build tools** and **product design** in general.
 - 👨🏾‍💻 I mostly speak in `.(js|ts)x`, `.css`, `.html`, `.php`, `.svg`, `.graphql`, `.yml` (😅) and also `.sketch` and `.fig`.
 - 🙌🏽 Would love to get more involved in open source work, feel free to ping me about **testing**, **architecture**, **design**, **docs**, **triaging and maintaining issues**.
