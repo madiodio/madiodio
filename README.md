@@ -1,8 +1,8 @@
 # Hi there 👋🏾
 
-I'm a **Full Stack Developer** from [Thiès, Senegal](https://goo.gl/maps/BGygcDETwaQU67aBA) 🇸🇳 and I'm currently working from [Abidjan, Côte d'Ivoire](https://goo.gl/maps/4wA49nprXyjSyXrC6) 🇨🇮.
+I'm a **Frontend Engineer** from [Thiès, Senegal](https://goo.gl/maps/BGygcDETwaQU67aBA) 🇸🇳 and I'm currently working from [Abidjan, Côte d'Ivoire](https://goo.gl/maps/4wA49nprXyjSyXrC6) 🇨🇮.
 
-- 🗂 I currently work as a Lead Frontend Engineer.
+- 🗂 I currently work as a Frontend Software Engineer.
 - 😀 I'm interested in **frontend engineering**, **design systems**, **JAMSTACK** & **serverless programming**, **javascript build tools** and **product design** in general.
 - 👨🏾‍💻 I mostly speak in `.(js|ts)x`, `.css`, `.html`, `.php`, `.svg`, `.graphql`, `.yml` (😅) and also `.sketch` and `.fig`.
 - 🙌🏽 Would love to get more involved in open source work, feel free to ping me about **testing**, **architecture**, **design**, **docs**, **triaging and maintaining issues**.
