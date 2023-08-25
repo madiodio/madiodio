@@ -1,6 +1,6 @@
 # Hi there 👋🏾
 
-I'm a **Frontend Engineer** from [Thiès, Senegal](https://goo.gl/maps/BGygcDETwaQU67aBA) 🇸🇳 and I'm currently working from [Abidjan, Côte d'Ivoire](https://goo.gl/maps/4wA49nprXyjSyXrC6) 🇨🇮.
+I'm a **Frontend Engineer** from [Thiès, Senegal](https://goo.gl/maps/BGygcDETwaQU67aBA) 🇸🇳 and I'm currently working from Paris, France 🇫🇷.
 
 - 🗂 I currently work as a Frontend Software Engineer.
 - 😀 I'm interested in **frontend engineering**, **design systems**, **JAMSTACK** & **serverless programming**, **javascript build tools** and **product design** in general.
